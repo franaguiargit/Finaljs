@@ -1,0 +1,19 @@
+
+$colores: (
+    prin: #052c65,
+    bg: white,
+    text: rgb(0, 0, 0),
+    btn_hover:#1552af,
+);
+
+@mixin flex_space_between {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+    
+$mobile: 425px;
+$tablet: 768px;
+$desktop: 1200px;
+
+

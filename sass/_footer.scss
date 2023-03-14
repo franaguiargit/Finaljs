@@ -1,0 +1,46 @@
+/* FOOTER ----------- */
+
+@import 'vars';
+
+footer {
+    background-color: #c6b299;
+    border: 1px solid  map-get($map:$colores , $key:text );
+    background-color: rgb(255, 255, 255);
+  }
+  /* Tarjetas */
+  .mastercard {
+    margin-left: 20px;
+    margin-right: 10px;
+    height: 80px;
+    width: 80px;
+  }
+  
+  .footer_conteiner {
+    @include flex_space_between;
+    margin-top: 20px;
+    align-items: center;
+    align-content: center;
+  }
+  
+  .conteiner_derecha {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .lista_footer {
+    margin-top: 20px;
+  }
+  
+  .visa {
+    height: 80px;
+    width: 80px;
+  }
+  
+  .num_telefono, .terms_condition, .help {
+    display: inline;
+  }
+  
+  .facebook, .instagram, .youtube {
+    height: 80px;
+    width: 80px;
+  }

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1, 
+        "name":"Intel i3 12100f", 
+        "desc": "Procesador de ultima generacion", 
+        "price": 1200, 
+        "brand":"intel", 
+        "img": "./img/products/i3.jpg", 
+        "agh": "../img/products/i3.jpg"
+    },
+    {
+        "id": 2, 
+        "name":"Intel i5 12400f", 
+        "desc": "Procesador de ultima generacion", 
+        "price": 4200, 
+        "brand":"intel", 
+        "img": "./img/products/i5.jpg", 
+        "agh": "../img/products/i5.jpg"
+    },
+    {
+        "id": 3, 
+        "name":"Intel i7 12700k", 
+        "desc": "Procesador de ultima generacion", 
+        "price": 8900, 
+        "brand":"intel", 
+        "img": "./img/products/i7.jpg", 
+        "agh": "../img/products/i7.jpg"
+    },
+    {
+        "id": 4, 
+        "name":"RTX 3050", 
+        "desc": "Grafica de ultima generacion", 
+        "price": 5002, 
+        "brand":"NVIDIA", 
+        "img": "./img/products/rtx3050.jpg", 
+        "agh": "../img/products/rtx3050.jpg"
+    },
+    {
+        "id": 5, 
+        "name":"RTX 2060", 
+        "desc": "Grafica de ultima generacion", 
+        "price": 7002, 
+        "brand":"NVIDIA", 
+        "img": "./img/products/rtx2060.jpg", 
+        "agh": "../img/products/rtx2060.jpg"
+    },
+    {
+        "id": 6, 
+        "name":"GT 1030", 
+        "desc": "Grafica de ultima generacion", 
+        "price": 1000, 
+        "brand":"NVIDIA", 
+        "img": "./img/products/gt1030.jpg", 
+        "agh": "../img/products/gt1030.jpg"
+    },
+    {
+        "id": 7, 
+        "name":"RYZEN 3 3200G", 
+        "desc": "Procesador de ultima generacion", 
+        "price": 1000, 
+        "brand":"AMD", 
+        "img": "./img/products/ryzen3.jpg", 
+        "agh": "../img/products/ryzen3.jpg"
+    },
+    {
+        "id": 8, 
+        "name":"RYZEN 3 3200G", 
+        "desc": "Procesador de ultima generacion", 
+        "price": 3129, 
+        "brand":"AMD", 
+        "img": "./img/products/ryzen5.jpg", 
+        "agh": "../img/products/ryzen5.jpg"
+    }
+]
